@@ -1,4 +1,4 @@
-﻿### Go credentialless
+﻿### Go credentialless, its time to adopt a passwordless strategy.
 
 ### Contribute
 
