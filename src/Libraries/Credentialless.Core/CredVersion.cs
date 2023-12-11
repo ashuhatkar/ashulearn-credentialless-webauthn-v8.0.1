@@ -1,3 +1,11 @@
+/*--****************************************************************************
+  --* Project Name    : Credentalless
+  --* Reference       : NA
+  --* Description     : Core
+  --* Configuration Record
+  --* Review            Ver  Author           Date      Cr       Comments
+  --* 001               001  A HATKAR         11/12/23  CR-XXXXX Original
+  --****************************************************************************/
 namespace Credentialless.Core
 {
     /// <summary>
